@@ -1,3 +1,7 @@
+
+
+
+
 class A{
 
     private int i;//private only works under mention class not in another class 

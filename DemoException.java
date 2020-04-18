@@ -19,7 +19,7 @@ class Demo_Exception{
         catch(ArithmeticException e){
               // System.out.println("zero is not divisible");
               System.out.println("Maximum no for output is 10");//alt + down
-               
+              
               
               
         }
